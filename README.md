@@ -3,6 +3,8 @@
 ## Objective 
 The aim of this project is to use state of the art object detection algorithms for detection and classification of ticks.
 
+[Project Report](/assets/Tick_Object_Detection_using_Deep_Learning_Algorithms.pdf)
+
 ## Models
 We use the following models for object detection:
 - [DETR](/detr/)
@@ -23,4 +25,6 @@ Each model folder contains 4 notebooks:
 - model trained on large dataset with augmentation
 
 ## Results
+The results of the project are as follows:
 
+![Results Table](/assets/result_table.jpg)
