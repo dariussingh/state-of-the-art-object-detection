@@ -29,4 +29,4 @@ The results of the project are as follows:
 
 ![Results Table](/assets/result_table.jpg)
 
-![Results](/assests/result.jpg)
+![Results](/assets/result.jpg)
