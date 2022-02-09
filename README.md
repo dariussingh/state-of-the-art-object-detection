@@ -13,7 +13,7 @@ We use the following models for object detection:
 - [Efficient Det](/efficient_det/)
 - [SSD](/ssd/)
 - [YOLOR](/yolor/)
-- [Ensemble model of YOLOv5 and YOLOR](/ensemble_yolo5_yolor/)
+- [Ensemble model of YOLOv5 and YOLOR](/ensemble_yolov5_yolor/)
 
 ## Code
 The [data_augmentation](/data_augmentation/data_aug/) folder contains the data augmentaion notebooks to balance the various classes of the dataset.
