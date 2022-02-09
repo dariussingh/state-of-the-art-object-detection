@@ -28,3 +28,5 @@ Each model folder contains 4 notebooks:
 The results of the project are as follows:
 
 ![Results Table](/assets/result_table.jpg)
+
+![Results](/assests/result.jpg)
